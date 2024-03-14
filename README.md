@@ -1,0 +1,2 @@
+# Excel-MIS-Project
+For ScaleX media, Demonstrated proficiency in data management, analysis, and presentation using Microsoft Excel.Worked on an employee onboarding dataset to clean, format, analyse, and derive actionable insights.
