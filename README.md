@@ -1,4 +1,4 @@
-![XYZ Media Employees Status.png]
+![XYZ Media Employees Status](XYZ%20Media%20Employees%20Status.png)
 
 Project Overview
 
