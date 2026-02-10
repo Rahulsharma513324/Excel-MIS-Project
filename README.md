@@ -1,4 +1,4 @@
-![XYZ Media Employees Status.png](excel_dashboard.png)
+![XYZ Media Employees Status.png]
 
 Project Overview
 
